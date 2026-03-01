@@ -1,0 +1,57 @@
+{
+  "modern": {
+    "primary": [
+      { "id": "mw-ar-1", "name": "Ranger AR", "damage": 72, "range": 65, "mobility": 48, "fireRate": 60, "accuracy": 62, "category": "assault", "icon": "🔫" },
+      { "id": "mw-ar-2", "name": "Striker M4", "damage": 65, "range": 70, "mobility": 55, "fireRate": 70, "accuracy": 68, "category": "assault", "icon": "🔫" },
+      { "id": "mw-ar-3", "name": "Vortex AK", "damage": 80, "range": 58, "mobility": 42, "fireRate": 55, "accuracy": 55, "category": "assault", "icon": "🔫" },
+      { "id": "mw-smg-1", "name": "Compact 9", "damage": 55, "range": 40, "mobility": 80, "fireRate": 88, "accuracy": 58, "category": "smg", "icon": "🔫" },
+      { "id": "mw-smg-2", "name": "Vector Pro", "damage": 52, "range": 38, "mobility": 85, "fireRate": 92, "accuracy": 60, "category": "smg", "icon": "🔫" },
+      { "id": "mw-lmg-1", "name": "Titan LMG", "damage": 85, "range": 72, "mobility": 25, "fireRate": 55, "accuracy": 50, "category": "lmg", "icon": "🔫" },
+      { "id": "mw-snr-1", "name": "Marksman .50", "damage": 98, "range": 95, "mobility": 20, "fireRate": 25, "accuracy": 88, "category": "sniper", "icon": "🔫" },
+      { "id": "mw-snr-2", "name": "Ghost Stalker", "damage": 92, "range": 90, "mobility": 28, "fireRate": 30, "accuracy": 85, "category": "sniper", "icon": "🔫" },
+      { "id": "mw-sg-1", "name": "Breacher 12", "damage": 95, "range": 22, "mobility": 45, "fireRate": 40, "accuracy": 38, "category": "shotgun", "icon": "🔫" }
+    ],
+    "secondary": [
+      { "id": "mw-pst-1", "name": "Recon .45", "damage": 48, "range": 28, "mobility": 90, "fireRate": 65, "accuracy": 55, "category": "pistol", "icon": "🔫" },
+      { "id": "mw-pst-2", "name": "Tactical 9mm", "damage": 42, "range": 25, "mobility": 92, "fireRate": 72, "accuracy": 58, "category": "pistol", "icon": "🔫" },
+      { "id": "mw-lnc-1", "name": "RPTR Launcher", "damage": 99, "range": 50, "mobility": 30, "fireRate": 20, "accuracy": 45, "category": "launcher", "icon": "🚀" },
+      { "id": "mw-kn-1", "name": "Combat Blade", "damage": 85, "range": 5, "mobility": 95, "fireRate": 80, "accuracy": 75, "category": "melee", "icon": "🗡️" }
+    ]
+  },
+  "blackops": {
+    "primary": [
+      { "id": "bo-ar-1", "name": "Razorback AR", "damage": 68, "range": 60, "mobility": 52, "fireRate": 65, "accuracy": 64, "category": "assault", "icon": "🔫" },
+      { "id": "bo-ar-2", "name": "Hammer-74U", "damage": 74, "range": 55, "mobility": 60, "fireRate": 68, "accuracy": 58, "category": "assault", "icon": "🔫" },
+      { "id": "bo-smg-1", "name": "Krait PDW", "damage": 50, "range": 35, "mobility": 88, "fireRate": 90, "accuracy": 55, "category": "smg", "icon": "🔫" },
+      { "id": "bo-smg-2", "name": "Sidewinder", "damage": 54, "range": 42, "mobility": 82, "fireRate": 85, "accuracy": 62, "category": "smg", "icon": "🔫" },
+      { "id": "bo-lmg-1", "name": "Iron Curtain", "damage": 88, "range": 68, "mobility": 22, "fireRate": 50, "accuracy": 52, "category": "lmg", "icon": "🔫" },
+      { "id": "bo-snr-1", "name": "Black Eagle", "damage": 95, "range": 92, "mobility": 18, "fireRate": 22, "accuracy": 90, "category": "sniper", "icon": "🔫" },
+      { "id": "bo-sg-1", "name": "Pump Judge", "damage": 98, "range": 18, "mobility": 40, "fireRate": 35, "accuracy": 32, "category": "shotgun", "icon": "🔫" },
+      { "id": "bo-sg-2", "name": "Street Sweeper", "damage": 78, "range": 20, "mobility": 48, "fireRate": 55, "accuracy": 35, "category": "shotgun", "icon": "🔫" }
+    ],
+    "secondary": [
+      { "id": "bo-pst-1", "name": "Phantom .357", "damage": 55, "range": 30, "mobility": 88, "fireRate": 60, "accuracy": 58, "category": "pistol", "icon": "🔫" },
+      { "id": "bo-pst-2", "name": "Double Stack", "damage": 44, "range": 24, "mobility": 94, "fireRate": 75, "accuracy": 60, "category": "pistol", "icon": "🔫" },
+      { "id": "bo-lnc-1", "name": "Warhead Tube", "damage": 98, "range": 48, "mobility": 28, "fireRate": 18, "accuracy": 42, "category": "launcher", "icon": "🚀" },
+      { "id": "bo-kn-1", "name": "Serrated Edge", "damage": 82, "range": 5, "mobility": 95, "fireRate": 82, "accuracy": 72, "category": "melee", "icon": "🗡️" }
+    ]
+  },
+  "futuristic": {
+    "primary": [
+      { "id": "fu-ar-1", "name": "NEXUS-7 Pulse", "damage": 75, "range": 68, "mobility": 55, "fireRate": 72, "accuracy": 70, "category": "assault", "icon": "⚡" },
+      { "id": "fu-ar-2", "name": "Apex Railgun", "damage": 88, "range": 80, "mobility": 38, "fireRate": 45, "accuracy": 82, "category": "assault", "icon": "⚡" },
+      { "id": "fu-smg-1", "name": "Photon Burst", "damage": 58, "range": 45, "mobility": 88, "fireRate": 95, "accuracy": 62, "category": "smg", "icon": "⚡" },
+      { "id": "fu-smg-2", "name": "Arc Cutter", "damage": 52, "range": 38, "mobility": 92, "fireRate": 98, "accuracy": 58, "category": "smg", "icon": "⚡" },
+      { "id": "fu-lmg-1", "name": "Havoc Cannon", "damage": 90, "range": 75, "mobility": 20, "fireRate": 60, "accuracy": 55, "category": "lmg", "icon": "⚡" },
+      { "id": "fu-snr-1", "name": "Void Lance", "damage": 99, "range": 99, "mobility": 15, "fireRate": 18, "accuracy": 95, "category": "sniper", "icon": "⚡" },
+      { "id": "fu-sg-1", "name": "Nova Scatter", "damage": 96, "range": 25, "mobility": 42, "fireRate": 45, "accuracy": 36, "category": "shotgun", "icon": "⚡" },
+      { "id": "fu-sp-1", "name": "Phase Blade", "damage": 70, "range": 15, "mobility": 75, "fireRate": 70, "accuracy": 65, "category": "special", "icon": "⚡" }
+    ],
+    "secondary": [
+      { "id": "fu-pst-1", "name": "Plasma Sidearm", "damage": 58, "range": 32, "mobility": 88, "fireRate": 68, "accuracy": 62, "category": "pistol", "icon": "⚡" },
+      { "id": "fu-pst-2", "name": "Micro Pulse", "damage": 48, "range": 28, "mobility": 95, "fireRate": 80, "accuracy": 65, "category": "pistol", "icon": "⚡" },
+      { "id": "fu-lnc-1", "name": "Singularity Pod", "damage": 99, "range": 55, "mobility": 25, "fireRate": 15, "accuracy": 50, "category": "launcher", "icon": "🚀" },
+      { "id": "fu-kn-1", "name": "Energy Blade", "damage": 90, "range": 5, "mobility": 95, "fireRate": 85, "accuracy": 80, "category": "melee", "icon": "⚡" }
+    ]
+  }
+}

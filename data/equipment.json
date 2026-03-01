@@ -1,0 +1,76 @@
+{
+  "modern": {
+    "tactical": [
+      { "id": "mw-tac-1", "name": "Stun Grenade", "icon": "💫", "description": "Slows and disorients enemies" },
+      { "id": "mw-tac-2", "name": "Flash Grenade", "icon": "💡", "description": "Temporarily blinds enemies" },
+      { "id": "mw-tac-3", "name": "Smoke Grenade", "icon": "💨", "description": "Creates obscuring smoke cloud" },
+      { "id": "mw-tac-4", "name": "Heartbeat Sensor", "icon": "❤️", "description": "Detects nearby enemies on a tablet" },
+      { "id": "mw-tac-5", "name": "Trophy System", "icon": "🏆", "description": "Destroys incoming projectiles" },
+      { "id": "mw-tac-6", "name": "Decoy Grenade", "icon": "📻", "description": "Simulates gunfire to confuse enemies" }
+    ],
+    "lethal": [
+      { "id": "mw-let-1", "name": "Frag Grenade", "icon": "💣", "description": "Classic thrown explosive" },
+      { "id": "mw-let-2", "name": "Semtex", "icon": "🟡", "description": "Sticky explosive grenade" },
+      { "id": "mw-let-3", "name": "Claymore", "icon": "⚠️", "description": "Proximity-triggered mine" },
+      { "id": "mw-let-4", "name": "C4", "icon": "🧱", "description": "Remote-detonated explosive" },
+      { "id": "mw-let-5", "name": "Throwing Knife", "icon": "🔪", "description": "Silent, one-hit kill blade" },
+      { "id": "mw-let-6", "name": "Drill Charge", "icon": "🔩", "description": "Penetrates and detonates behind cover" }
+    ]
+  },
+  "blackops": {
+    "tactical": [
+      { "id": "bo-tac-1", "name": "Concussion", "icon": "🌀", "description": "Disorients enemies caught in blast" },
+      { "id": "bo-tac-2", "name": "Flashbang", "icon": "💡", "description": "Blinds and deafens enemies" },
+      { "id": "bo-tac-3", "name": "Smoke Screen", "icon": "💨", "description": "Dense smoke for cover" },
+      { "id": "bo-tac-4", "name": "Willy Pete", "icon": "🔥", "description": "Incendiary smoke grenade" },
+      { "id": "bo-tac-5", "name": "Black Hat", "icon": "🎩", "description": "Hack and destroy enemy devices" },
+      { "id": "bo-tac-6", "name": "Sensor Dart", "icon": "📍", "description": "Reveals enemies on minimap" }
+    ],
+    "lethal": [
+      { "id": "bo-let-1", "name": "Frag", "icon": "💣", "description": "Standard fragmentation grenade" },
+      { "id": "bo-let-2", "name": "Semtex", "icon": "🟡", "description": "Sticks to surfaces and enemies" },
+      { "id": "bo-let-3", "name": "Bouncing Betty", "icon": "🎈", "description": "Leaping anti-personnel mine" },
+      { "id": "bo-let-4", "name": "Trip Mine", "icon": "⚠️", "description": "Laser-triggered explosive" },
+      { "id": "bo-let-5", "name": "Tomahawk", "icon": "🪃", "description": "Thrown melee weapon, retrievable" },
+      { "id": "bo-let-6", "name": "Combat Axe", "icon": "🪓", "description": "High-damage thrown axe" }
+    ]
+  },
+  "futuristic": {
+    "tactical": [
+      { "id": "fu-tac-1", "name": "Recon Drone", "icon": "🤖", "description": "Remote scout drone reveals enemies" },
+      { "id": "fu-tac-2", "name": "EMP Pulse", "icon": "⚡", "description": "Disables electronics and HUDs" },
+      { "id": "fu-tac-3", "name": "Holo Decoy", "icon": "👤", "description": "Projects holographic ally to confuse" },
+      { "id": "fu-tac-4", "name": "Stasis Field", "icon": "🧊", "description": "Slows enemies in area of effect" },
+      { "id": "fu-tac-5", "name": "Phase Grenade", "icon": "🌀", "description": "Phases through cover before detonating" },
+      { "id": "fu-tac-6", "name": "Gravity Spike", "icon": "📌", "description": "Creates localized gravity anomaly" }
+    ],
+    "lethal": [
+      { "id": "fu-let-1", "name": "Plasma Charge", "icon": "💥", "description": "Superheated energy explosive" },
+      { "id": "fu-let-2", "name": "Nano Swarm", "icon": "🐝", "description": "Cloud of destructive nanobots" },
+      { "id": "fu-let-3", "name": "Singularity Mine", "icon": "🕳️", "description": "Creates miniature black hole on trigger" },
+      { "id": "fu-let-4", "name": "Arc Bomb", "icon": "⚡", "description": "Chain lightning that jumps between enemies" },
+      { "id": "fu-let-5", "name": "Void Blade", "icon": "🗡️", "description": "Energy blade thrown at high velocity" },
+      { "id": "fu-let-6", "name": "Pulse Grenade", "icon": "🔴", "description": "Kinetic shockwave on detonation" }
+    ]
+  },
+  "fieldUpgrades": {
+    "modern": [
+      { "id": "mw-fu-1", "name": "Ammo Box", "icon": "📦", "description": "Deploy a box that resupplies ammo" },
+      { "id": "mw-fu-2", "name": "Tactical Camera", "icon": "📷", "description": "Remote camera with recon ability" },
+      { "id": "mw-fu-3", "name": "Dead Silence", "icon": "🔇", "description": "Temporarily silent movement" },
+      { "id": "mw-fu-4", "name": "Munitions Box", "icon": "🎁", "description": "Resupply box for team" }
+    ],
+    "blackops": [
+      { "id": "bo-fu-1", "name": "Combat Bow", "icon": "🏹", "description": "Silent, rechargeable bow weapon" },
+      { "id": "bo-fu-2", "name": "Death Machine", "icon": "🔫", "description": "Minigun for temporary use" },
+      { "id": "bo-fu-3", "name": "War Machine", "icon": "💥", "description": "Grenade launcher for brief use" },
+      { "id": "bo-fu-4", "name": "Micro Drone", "icon": "🚁", "description": "Deploy a scouting micro-drone" }
+    ],
+    "futuristic": [
+      { "id": "fu-fu-1", "name": "Shield Wall", "icon": "🛡️", "description": "Deploy an energy shield barrier" },
+      { "id": "fu-fu-2", "name": "Exo Suit", "icon": "🤖", "description": "Temporary exo armor activation" },
+      { "id": "fu-fu-3", "name": "Phase Walk", "icon": "✨", "description": "Brief dimensional phasing ability" },
+      { "id": "fu-fu-4", "name": "Turret AI", "icon": "🔫", "description": "Deploy a smart targeting turret" }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "modern": {
+    "tier1": [
+      { "id": "mw-p1-1", "name": "Scout", "icon": "👁️", "description": "See enemy footprints and hold-breath longer" },
+      { "id": "mw-p1-2", "name": "Tracker", "icon": "🐾", "description": "Enemies leave trails visible only to you" },
+      { "id": "mw-p1-3", "name": "Scavenger", "icon": "🎒", "description": "Resupply ammo from fallen enemies" },
+      { "id": "mw-p1-4", "name": "Armor", "icon": "🛡️", "description": "Start with extra armor plating" }
+    ],
+    "tier2": [
+      { "id": "mw-p2-1", "name": "Hardline", "icon": "⭐", "description": "Killstreaks cost one less kill" },
+      { "id": "mw-p2-2", "name": "Ghost", "icon": "👻", "description": "Undetectable by UAV while moving" },
+      { "id": "mw-p2-3", "name": "Overkill", "icon": "⚔️", "description": "Carry two primary weapons" },
+      { "id": "mw-p2-4", "name": "Quick Draw", "icon": "⚡", "description": "Faster ADS and equipment use" }
+    ],
+    "tier3": [
+      { "id": "mw-p3-1", "name": "Battle Hardened", "icon": "💪", "description": "Reduced effect from enemy flash and stun" },
+      { "id": "mw-p3-2", "name": "Amped", "icon": "🔋", "description": "Faster weapon swapping and launcher reload" },
+      { "id": "mw-p3-3", "name": "Tune Up", "icon": "🔧", "description": "Field Upgrade recharges 25% faster" },
+      { "id": "mw-p3-4", "name": "Shrapnel", "icon": "💥", "description": "Spawn with extra lethal equipment" }
+    ]
+  },
+  "blackops": {
+    "tier1": [
+      { "id": "bo-p1-1", "name": "Flak Jacket", "icon": "🧥", "description": "Reduce damage from explosives" },
+      { "id": "bo-p1-2", "name": "Lightweight", "icon": "🏃", "description": "Move faster; no falling damage" },
+      { "id": "bo-p1-3", "name": "Hardline", "icon": "⭐", "description": "Earn streaks one kill sooner" },
+      { "id": "bo-p1-4", "name": "Scavenger", "icon": "🎒", "description": "Pick up ammo from enemies" }
+    ],
+    "tier2": [
+      { "id": "bo-p2-1", "name": "Ghost", "icon": "👻", "description": "Hidden from enemy UAV" },
+      { "id": "bo-p2-2", "name": "Cold Blooded", "icon": "🥶", "description": "Undetectable by AI targeting" },
+      { "id": "bo-p2-3", "name": "Toughness", "icon": "💢", "description": "Reduced flinch when hit" },
+      { "id": "bo-p2-4", "name": "Danger Close", "icon": "💣", "description": "Increased explosive damage" }
+    ],
+    "tier3": [
+      { "id": "bo-p3-1", "name": "Tactical Mask", "icon": "🎭", "description": "Immune to flash, stun and gas" },
+      { "id": "bo-p3-2", "name": "Ninja", "icon": "🥷", "description": "Move silently; hear enemies louder" },
+      { "id": "bo-p3-3", "name": "Dead Silence", "icon": "🔇", "description": "Completely silent movement" },
+      { "id": "bo-p3-4", "name": "Engineer", "icon": "🔧", "description": "Reveal enemy equipment through walls" }
+    ]
+  },
+  "futuristic": {
+    "tier1": [
+      { "id": "fu-p1-1", "name": "Nano Weave", "icon": "🧬", "description": "Passive damage reduction from all sources" },
+      { "id": "fu-p1-2", "name": "Exo Boost", "icon": "🚀", "description": "Enhanced mobility in all terrain" },
+      { "id": "fu-p1-3", "name": "Overdrive", "icon": "⚡", "description": "Temporary speed burst on kills" },
+      { "id": "fu-p1-4", "name": "Kinetic Armor", "icon": "🛡️", "description": "Absorb damage from projectiles" }
+    ],
+    "tier2": [
+      { "id": "fu-p2-1", "name": "Cloak", "icon": "🫥", "description": "Optical camouflage while crouching" },
+      { "id": "fu-p2-2", "name": "Signal Jammer", "icon": "📡", "description": "Jam enemy radar in close range" },
+      { "id": "fu-p2-3", "name": "Dual Wield", "icon": "⚔️", "description": "Equip two primary weapons" },
+      { "id": "fu-p2-4", "name": "Target Lock", "icon": "🎯", "description": "Auto-highlight low-health targets" }
+    ],
+    "tier3": [
+      { "id": "fu-p3-1", "name": "Neural Link", "icon": "🧠", "description": "Share UAV feed with team" },
+      { "id": "fu-p3-2", "name": "Phase Shift", "icon": "✨", "description": "Brief phasing ability on damage" },
+      { "id": "fu-p3-3", "name": "Zero Gravity", "icon": "🌌", "description": "Improved aerial control and jumps" },
+      { "id": "fu-p3-4", "name": "Regeneration", "icon": "💚", "description": "Faster health regeneration rate" }
+    ]
+  }
+}
